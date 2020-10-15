@@ -1,0 +1,16 @@
+File sorted and copied with FileInputStream-FileOutputStream:
+Level 1; physical; example: USB
+Level 2; data link; example: IEEE 802.2
+Level 3; network; example: IPv6
+Level 4; transport; example: TCP
+Level 5; session; example: RPC
+Level 6; presentation; example: JPEG
+Level 7; application; example: HTTP
+File sorted and copied with BufferedReader:
+Level 1; physical; example: USB
+Level 2; data link; example: IEEE 802.2
+Level 3; network; example: IPv6
+Level 4; transport; example: TCP
+Level 5; session; example: RPC
+Level 6; presentation; example: JPEG
+Level 7; application; example: HTTP
